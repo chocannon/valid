@@ -1,0 +1,21 @@
+{
+    "name": "chocannon/valid",
+    "description": "validation input param",
+    "license": "MIT",
+    "keywords": ["valid validation"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "chocannon",
+            "email": "qinghecao@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Chocannon\\Valid": "src/"
+        }
+    }
+}
